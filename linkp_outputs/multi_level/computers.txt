@@ -1,0 +1,2 @@
+2025-01-02 01:28:19 computers, Multi-level, Epoch:3128, AUC-mean: 94.3453419423671, AUC-std: 0.0
+2025-01-20 12:02:55 computers, Multi-level, Epoch:772, AUC-mean: 92.37271915510128, AUC-std: 0.0

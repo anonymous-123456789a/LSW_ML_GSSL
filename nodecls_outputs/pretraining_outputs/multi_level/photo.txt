@@ -1,0 +1,7 @@
+=== Final ===
+accuracy    0.927088
+kmeans      0.639085
+nmi         0.576828
+ari         0.465550
+dtype: float64
+(E) | classifier: acc=92.5142+-0.4877

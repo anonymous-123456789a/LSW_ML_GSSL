@@ -1,0 +1,90 @@
+cora:
+  seed: 39788
+  learning_rate: 0.001
+  num_hidden: 256
+  num_proj_hidden: 256
+  drop_scheme: "uniform"
+  drop_edge_rate_1: 0.2
+  drop_edge_rate_2: 0.4
+  drop_feature_rate_1: 0.3
+  drop_feature_rate_2: 0.2
+  tau: 0.9
+  weight_decay: 0.00001
+  num_epochs: 400 #400
+  patience: 400 #400
+  batch: 0
+citeseer:
+  seed: 38108
+  learning_rate: 0.001
+  num_hidden: 256
+  num_proj_hidden: 256
+  drop_scheme: "uniform" #evc
+  drop_edge_rate_1: 0.2
+  drop_edge_rate_2: 0.4
+  drop_feature_rate_1: 0.3
+  drop_feature_rate_2: 0.2
+  tau: 0.9
+  weight_decay: 0.00001
+  num_epochs: 600 #400
+  patience: 600 #400
+  batch: 0
+pubmed:
+  seed: 23344
+  learning_rate: 0.001
+  num_hidden: 256
+  num_proj_hidden: 256
+  drop_scheme: "degree"
+  drop_edge_rate_1: 0.2
+  drop_edge_rate_2: 0.4
+  drop_feature_rate_1: 0.3
+  drop_feature_rate_2: 0.4
+  tau: 0.7
+  weight_decay: 0.00001
+  num_epochs: 1800 #1800
+  patience: 1800
+  batch: 0 #64
+dblp:
+  seed: 83521
+  learning_rate: 0.001
+  num_hidden: 256
+  num_proj_hidden: 256
+  drop_scheme: "uniform"
+  drop_edge_rate_1: 0.2
+  drop_edge_rate_2: 0.4
+  drop_feature_rate_1: 0.3
+  drop_feature_rate_2: 0.4
+  tau: 0.9
+  weight_decay: 0.00001
+  num_epochs: 600 #600
+  patience: 600
+  batch: 64
+photo:
+  seed: 56312
+  learning_rate: 0.001
+  num_hidden: 128
+  num_proj_hidden: 128
+  drop_scheme: "uniform"
+  drop_edge_rate_1: 0.2
+  drop_edge_rate_2: 0.4
+  drop_feature_rate_1: 0.3
+  drop_feature_rate_2: 0.4
+  tau: 0.3
+  weight_decay: 0.00001
+  num_epochs: 2500 #2500
+  patience: 2500
+  batch: 64 #64
+computers:
+  seed: 78624
+  learning_rate: 0.001
+  num_hidden: 100 #64
+  num_proj_hidden: 100 #64
+  drop_scheme: "uniform"
+  drop_edge_rate_1: 0.2
+  drop_edge_rate_2: 0.4
+  drop_feature_rate_1: 0.3
+  drop_feature_rate_2: 0.4
+  tau: 0.9
+  weight_decay: 0.00001
+  num_epochs: 4500 #4500
+  patience: 4500
+  batch: 64

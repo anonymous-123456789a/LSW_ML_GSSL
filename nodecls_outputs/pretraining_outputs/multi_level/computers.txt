@@ -1,0 +1,14 @@
+=== Final ===
+accuracy    0.866203
+kmeans      0.657432
+nmi         0.534462
+ari         0.523729
+dtype: float64
+(E) | classifier: acc=86.4701+-0.4731
+=== Final ===
+accuracy    0.849981
+kmeans      0.658813
+nmi         0.542356
+ari         0.525361
+dtype: float64
+(E) | classifier: acc=86.3521+-0.3504

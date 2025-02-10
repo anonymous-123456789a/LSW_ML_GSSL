@@ -1,0 +1,2 @@
+2025-01-01 18:13:52 pubmed, Multi-level, Epoch:1699, AUC-mean: 96.84986588349908, AUC-std: 0.0
+2025-01-01 18:39:32 pubmed, Multi-level, Epoch:400, AUC-mean: 95.78391995896271, AUC-std: 0.15237653584367905

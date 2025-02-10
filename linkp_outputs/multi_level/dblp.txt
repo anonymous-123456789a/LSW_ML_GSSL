@@ -1,0 +1,9 @@
+2025-01-01 18:51:07 dblp, Multi-level, Epoch:487, AUC-mean: 94.08835602407231, AUC-std: 0.0
+2025-01-01 19:29:43 dblp, Multi-level, Epoch:1531, AUC-mean: 95.58336192848877, AUC-std: 0.0
+2025-01-01 20:11:52 dblp, Multi-level, Epoch:1950, AUC-mean: 95.6854026133467, AUC-std: 0.0
+2025-01-01 21:32:32 dblp, Multi-level, Epoch:3871, AUC-mean: 96.11030013961879, AUC-std: 0.0
+2025-01-06 13:54:51 dblp, Multi-level, Epoch:249, AUC-mean: 93.28618317877633, AUC-std: 0.0
+2025-01-06 15:05:30 dblp, Multi-level, Epoch:461, AUC-mean: 93.43571544219992, AUC-std: 0.0
+2025-01-06 16:38:37 dblp, Multi-level, Epoch:1903, AUC-mean: 95.07540961218096, AUC-std: 0.0
+2025-01-06 17:47:13 dblp, Multi-level, Epoch:413, AUC-mean: 91.98578359100468, AUC-std: 0.0
+2025-01-20 11:07:15 dblp, Multi-level, Epoch:402, AUC-mean: 92.77392548424588, AUC-std: 0.0

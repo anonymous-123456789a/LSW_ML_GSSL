@@ -1,0 +1,14 @@
+2024-12-30 17:44:01 cora, Multi-level, Epoch:994, AUC-mean: 89.87754249646238, AUC-std: 0.0
+2024-12-30 17:57:52 cora, Multi-level, Epoch:2657, AUC-mean: 91.50034746101416, AUC-std: 0.0
+2024-12-30 18:10:46 cora, Multi-level, Epoch:2659, AUC-mean: 91.50034746101416, AUC-std: 0.0
+2024-12-30 18:28:14 cora, Multi-level, Epoch:2664, AUC-mean: 91.52663207659263, AUC-std: 0.0
+2024-12-30 18:43:19 cora, Multi-level, Epoch:2658, AUC-mean: 91.5867626355188, AUC-std: 0.0
+2024-12-30 18:58:47 cora, Multi-level, Epoch:1615, AUC-mean: 89.23506194971736, AUC-std: 0.0
+2024-12-30 19:13:48 cora, Multi-level, Epoch:2423, AUC-mean: 93.6434437887293, AUC-std: 0.0
+2024-12-30 20:01:00 cora, Multi-level, Epoch:2162, AUC-mean: 91.48414461579453, AUC-std: 1.6676463796187284
+2025-01-06 13:04:28 cora, Multi-level, Epoch:498, AUC-mean: 88.62992341455158, AUC-std: 0.0
+2025-01-06 14:07:36 cora, Multi-level, Epoch:428, AUC-mean: 80.98434085025332, AUC-std: 0.0
+2025-01-06 15:43:57 cora, Multi-level, Epoch:492, AUC-mean: 88.59427715506843, AUC-std: 0.0
+2025-01-06 15:51:24 cora, Multi-level, Epoch:1865, AUC-mean: 93.24449373309953, AUC-std: 0.0
+2025-01-06 16:50:01 cora, Multi-level, Epoch:490, AUC-mean: 89.91066831335583, AUC-std: 0.0
+2025-01-20 10:33:01 cora, Multi-level, Epoch:1494, AUC-mean: 89.05263764317014, AUC-std: 0.0
